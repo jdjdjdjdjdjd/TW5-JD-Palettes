@@ -1,0 +1,114 @@
+caption: Cool Mint
+created: 20171029085435079
+creator: JD
+description: Minty and fresh
+modified: 20180624054242016
+modifier: jd
+name: Cool Mint
+tags: $:/tags/Palette
+title: $:/jd/palette/CoolMint
+type: application/x-tiddler-dictionary
+
+alert-background: <<colour tag-background>>
+alert-border: <<colour tag-background>>
+alert-highlight: <<colour primary>>
+alert-muted-foreground: <<colour muted-foreground>>
+background: #fbfbfb
+blockquote-bar: <<colour muted-foreground>>
+button-background: <<colour page-background>>
+button-foreground: <<colour primary>>
+button-border: <<colour primary>>; border-radius: 2px; border-width: 1px; border-style: solid
+code-background: <<colour page-background>>
+code-border: <<colour page-background>>
+code-foreground: <<colour muted-foreground>>
+dirty-indicator: <<colour primary>>
+download-background: <<colour tag-background>>
+download-foreground: <<colour background>>
+dragger-background: <<colour foreground>>
+dragger-foreground: <<colour background>>
+dropdown-background: <<colour background>>
+dropdown-border: <<colour background>>
+dropdown-tab-background-selected: <<colour background>>
+dropdown-tab-background: <<colour background>>
+dropzone-background: <<colour primary>>
+external-link-background-hover: inherit
+external-link-background-visited: inherit
+external-link-background: inherit
+external-link-foreground-hover: inherit
+external-link-foreground-visited: #237544
+external-link-foreground: #40EFF2
+foreground: #38363B
+message-background: #D7DCDF
+message-border: #D7DCDF
+message-foreground: <<colour foreground>>
+modal-backdrop: <<colour foreground>>
+modal-background: <<colour background>>
+modal-border: <<colour background>>
+modal-footer-background: <<colour background>>
+modal-footer-border: <<colour muted-foreground>>
+modal-header-border: <<colour muted-foreground>>
+muted-foreground: #868686
+notification-background: <<colour tag-background>>
+notification-border: <<colour tag-background>>
+page-background: #ebeeef
+pre-background: <<colour page-background>>
+pre-border: <<colour page-background>>
+primary: #237544
+sidebar-button-foreground: <<colour primary>>
+sidebar-controls-foreground-hover: inherit
+sidebar-controls-foreground: <<colour muted-foreground>>
+sidebar-foreground-shadow: transparent
+sidebar-foreground: <<colour primary>>
+sidebar-muted-foreground-hover: inherit
+sidebar-muted-foreground: <<colour muted-foreground>>
+sidebar-tab-background-selected: <<colour page-background>>
+sidebar-tab-background: transparent
+sidebar-tab-border-selected: rgba(0,0,0,0.15)
+sidebar-tab-border: transparent
+sidebar-tab-divider: ; margin-top: -1.5px;
+sidebar-tab-foreground-selected: <<colour foreground>>
+sidebar-tab-foreground: <<colour muted-foreground>>
+sidebar-tiddler-link-foreground-hover: inherit
+sidebar-tiddler-link-foreground: <<colour muted-foreground>>
+site-title-foreground: <<colour foreground>>
+static-alert-foreground: <<colour foreground>>
+tab-background-selected: <<colour background>>
+tab-background: transparent
+tab-border-selected: <<colour page-background>>
+tab-border: transparent
+tab-divider: <<colour page-background>>
+tab-foreground-selected: <<colour foreground>>
+tab-foreground: <<colour muted-foreground>>
+table-border: <<colour page-background>>
+table-footer-background: <<colour page-background>>
+table-header-background: <<colour page-background>>
+tag-background: #94DC20
+tag-foreground: <<general primary>>
+tiddler-background: <<colour background>>
+tiddler-border: <<colour background>>
+tiddler-controls-foreground-hover: <<colour tag-background>>
+tiddler-controls-foreground-selected: inherit
+tiddler-controls-foreground: #697c69
+tiddler-editor-background: <<colour background>>
+tiddler-editor-border-image: <<colour background>>
+tiddler-editor-border: rgba(0,0,0,0.12)
+tiddler-editor-fields-even: rgba(0,0,0,0.08)
+tiddler-editor-fields-odd: rgba(0,0,0,0.04)
+tiddler-info-background: <<colour background>>
+tiddler-info-border: <<colour page-background>>
+tiddler-info-tab-background: <<colour background>>
+tiddler-link-background: <<colour background>>
+tiddler-link-foreground: <<colour primary>>
+tiddler-subtitle-foreground: <<colour muted-foreground>>
+tiddler-title-foreground: <<colour primary>>
+toolbar-new-button: 
+toolbar-options-button: 
+toolbar-save-button: 
+toolbar-info-button: 
+toolbar-edit-button: 
+toolbar-close-button: 
+toolbar-delete-button: 
+toolbar-cancel-button: 
+toolbar-done-button: 
+untagged-background: #d2cfcc
+very-muted-foreground: #a3a3a3
