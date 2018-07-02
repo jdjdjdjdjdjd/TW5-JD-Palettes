@@ -1,2 +1,5 @@
 # TW5-JD-Palettes
-Color palettes for TW5
+
+Darkish, low-contrast colors, neon and some others. 
+
+These are color palettes for TW5.
